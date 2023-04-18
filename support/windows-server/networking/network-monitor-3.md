@@ -84,7 +84,7 @@ Network Monitor 3 may consume lots of system resources. Some things to consider 
 
 - Processor utilization
 
-    The Conversations feature of Network Monitor 3 may significantly increase processor utilization when lots of frames are processed. By default, the Conversations feature is turned off, as mentioned in the "Memory use" section.
+    The Conversations feature of Network Monitor 3 may significantly increase processor utilization when lots of frames are processed. By default, the Conversations feature is turned on, as mentioned in the "Memory use" section.
 
 ## General usage
 
